@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day1project1\day2printnumbers1 to 10\day2printnumbers1 to 10\day2printnumbers1 to 10\bin\Debug\day2printnumbers1 to 10.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\day2printnumbers1 to 10\day2printnumbers1 to 10\day2printnumbers1 to 10\bin\Debug\day2printnumbers1 to 10.exe
+C:\Users\mouni\hh\dotnet\day1project1\day2printnumbers1 to 10\day2printnumbers1 to 10\day2printnumbers1 to 10\bin\Debug\day2printnumbers1 to 10.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day2printnumbers1 to 10\day2printnumbers1 to 10\day2printnumbers1 to 10\obj\Debug\day2printnumbers1 to 10.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\day2printnumbers1 to 10\day2printnumbers1 to 10\day2printnumbers1 to 10\obj\Debug\day2printnumbers1 to 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\day2printnumbers1 to 10\day2printnumbers1 to 10\day2printnumbers1 to 10\obj\Debug\day2printnumbers1 to 10.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\day2printnumbers1 to 10\day2printnumbers1 to 10\day2printnumbers1 to 10\obj\Debug\day2printnumbers1 to 10.exe
+C:\Users\mouni\hh\dotnet\day1project1\day2printnumbers1 to 10\day2printnumbers1 to 10\day2printnumbers1 to 10\obj\Debug\day2printnumbers1 to 10.pdb
