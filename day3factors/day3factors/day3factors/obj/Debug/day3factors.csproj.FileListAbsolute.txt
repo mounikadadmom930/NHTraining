@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day3factors\day3factors\day3factors\bin\Debug\day3factors.exe.config
+C:\Users\mouni\hh\dotnet\day3factors\day3factors\day3factors\bin\Debug\day3factors.exe
+C:\Users\mouni\hh\dotnet\day3factors\day3factors\day3factors\bin\Debug\day3factors.pdb
+C:\Users\mouni\hh\dotnet\day3factors\day3factors\day3factors\obj\Debug\day3factors.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day3factors\day3factors\day3factors\obj\Debug\day3factors.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day3factors\day3factors\day3factors\obj\Debug\day3factors.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day3factors\day3factors\day3factors\obj\Debug\day3factors.exe
+C:\Users\mouni\hh\dotnet\day3factors\day3factors\day3factors\obj\Debug\day3factors.pdb

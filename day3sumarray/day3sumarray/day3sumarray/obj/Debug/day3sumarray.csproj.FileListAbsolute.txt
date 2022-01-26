@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day3sumarray\day3sumarray\day3sumarray\bin\Debug\day3sumarray.exe.config
+C:\Users\mouni\hh\dotnet\day3sumarray\day3sumarray\day3sumarray\bin\Debug\day3sumarray.exe
+C:\Users\mouni\hh\dotnet\day3sumarray\day3sumarray\day3sumarray\bin\Debug\day3sumarray.pdb
+C:\Users\mouni\hh\dotnet\day3sumarray\day3sumarray\day3sumarray\obj\Debug\day3sumarray.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day3sumarray\day3sumarray\day3sumarray\obj\Debug\day3sumarray.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day3sumarray\day3sumarray\day3sumarray\obj\Debug\day3sumarray.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day3sumarray\day3sumarray\day3sumarray\obj\Debug\day3sumarray.exe
+C:\Users\mouni\hh\dotnet\day3sumarray\day3sumarray\day3sumarray\obj\Debug\day3sumarray.pdb

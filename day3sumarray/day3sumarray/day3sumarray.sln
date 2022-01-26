@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day3sumarray", "day3sumarray\day3sumarray.csproj", "{346A96DE-E2DB-427C-8F5D-FF65BCE0DC7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{346A96DE-E2DB-427C-8F5D-FF65BCE0DC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346A96DE-E2DB-427C-8F5D-FF65BCE0DC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346A96DE-E2DB-427C-8F5D-FF65BCE0DC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346A96DE-E2DB-427C-8F5D-FF65BCE0DC7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3BBF816-B3FA-4E3A-90D3-50C0F091E616}
+	EndGlobalSection
+EndGlobal

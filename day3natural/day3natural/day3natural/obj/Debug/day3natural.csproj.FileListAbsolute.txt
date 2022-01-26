@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day3natural\day3natural\day3natural\bin\Debug\day3natural.exe.config
+C:\Users\mouni\hh\dotnet\day3natural\day3natural\day3natural\bin\Debug\day3natural.exe
+C:\Users\mouni\hh\dotnet\day3natural\day3natural\day3natural\bin\Debug\day3natural.pdb
+C:\Users\mouni\hh\dotnet\day3natural\day3natural\day3natural\obj\Debug\day3natural.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day3natural\day3natural\day3natural\obj\Debug\day3natural.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day3natural\day3natural\day3natural\obj\Debug\day3natural.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day3natural\day3natural\day3natural\obj\Debug\day3natural.exe
+C:\Users\mouni\hh\dotnet\day3natural\day3natural\day3natural\obj\Debug\day3natural.pdb

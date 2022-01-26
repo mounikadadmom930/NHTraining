@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day3multiplication2\day3multiplication2\day3multiplication2\bin\Debug\day3multiplication2.exe.config
+C:\Users\mouni\hh\dotnet\day3multiplication2\day3multiplication2\day3multiplication2\bin\Debug\day3multiplication2.exe
+C:\Users\mouni\hh\dotnet\day3multiplication2\day3multiplication2\day3multiplication2\bin\Debug\day3multiplication2.pdb
+C:\Users\mouni\hh\dotnet\day3multiplication2\day3multiplication2\day3multiplication2\obj\Debug\day3multiplication2.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day3multiplication2\day3multiplication2\day3multiplication2\obj\Debug\day3multiplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day3multiplication2\day3multiplication2\day3multiplication2\obj\Debug\day3multiplication2.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day3multiplication2\day3multiplication2\day3multiplication2\obj\Debug\day3multiplication2.exe
+C:\Users\mouni\hh\dotnet\day3multiplication2\day3multiplication2\day3multiplication2\obj\Debug\day3multiplication2.pdb

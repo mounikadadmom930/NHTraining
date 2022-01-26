@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3a3c0d2-0f9f-4742-b6a6-09b8ca8c41ba": {
+      "ProjectGuid": "e3a3c0d2-0f9f-4742-b6a6-09b8ca8c41ba",
+      "DisplayName": "day3vowelornot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

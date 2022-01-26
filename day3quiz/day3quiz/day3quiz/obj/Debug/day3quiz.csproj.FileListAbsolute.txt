@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day3quiz\day3quiz\day3quiz\bin\Debug\day3quiz.exe.config
+C:\Users\mouni\hh\dotnet\day3quiz\day3quiz\day3quiz\bin\Debug\day3quiz.exe
+C:\Users\mouni\hh\dotnet\day3quiz\day3quiz\day3quiz\bin\Debug\day3quiz.pdb
+C:\Users\mouni\hh\dotnet\day3quiz\day3quiz\day3quiz\obj\Debug\day3quiz.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day3quiz\day3quiz\day3quiz\obj\Debug\day3quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day3quiz\day3quiz\day3quiz\obj\Debug\day3quiz.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day3quiz\day3quiz\day3quiz\obj\Debug\day3quiz.exe
+C:\Users\mouni\hh\dotnet\day3quiz\day3quiz\day3quiz\obj\Debug\day3quiz.pdb

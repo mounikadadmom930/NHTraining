@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3e10be92-d526-49a8-8c71-7c84e8da497b": {
+      "ProjectGuid": "3e10be92-d526-49a8-8c71-7c84e8da497b",
+      "DisplayName": "day3factorial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

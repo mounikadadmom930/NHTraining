@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day3switch\day3switch\day3switch\bin\Debug\day3switch.exe.config
+C:\Users\mouni\hh\dotnet\day3switch\day3switch\day3switch\bin\Debug\day3switch.exe
+C:\Users\mouni\hh\dotnet\day3switch\day3switch\day3switch\bin\Debug\day3switch.pdb
+C:\Users\mouni\hh\dotnet\day3switch\day3switch\day3switch\obj\Debug\day3switch.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day3switch\day3switch\day3switch\obj\Debug\day3switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day3switch\day3switch\day3switch\obj\Debug\day3switch.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day3switch\day3switch\day3switch\obj\Debug\day3switch.exe
+C:\Users\mouni\hh\dotnet\day3switch\day3switch\day3switch\obj\Debug\day3switch.pdb

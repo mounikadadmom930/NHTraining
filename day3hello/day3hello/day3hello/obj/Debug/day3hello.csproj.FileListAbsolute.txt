@@ -1,0 +1,7 @@
+C:\Users\mouni\hh\dotnet\day3hello\day3hello\day3hello\bin\Debug\day3hello.exe.config
+C:\Users\mouni\hh\dotnet\day3hello\day3hello\day3hello\bin\Debug\day3hello.exe
+C:\Users\mouni\hh\dotnet\day3hello\day3hello\day3hello\bin\Debug\day3hello.pdb
+C:\Users\mouni\hh\dotnet\day3hello\day3hello\day3hello\obj\Debug\day3hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day3hello\day3hello\day3hello\obj\Debug\day3hello.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day3hello\day3hello\day3hello\obj\Debug\day3hello.exe
+C:\Users\mouni\hh\dotnet\day3hello\day3hello\day3hello\obj\Debug\day3hello.pdb

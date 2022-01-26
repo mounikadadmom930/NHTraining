@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day3foreach\day3foreach\day3foreach\bin\Debug\day3foreach.exe.config
+C:\Users\mouni\hh\dotnet\day3foreach\day3foreach\day3foreach\bin\Debug\day3foreach.exe
+C:\Users\mouni\hh\dotnet\day3foreach\day3foreach\day3foreach\bin\Debug\day3foreach.pdb
+C:\Users\mouni\hh\dotnet\day3foreach\day3foreach\day3foreach\obj\Debug\day3foreach.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day3foreach\day3foreach\day3foreach\obj\Debug\day3foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day3foreach\day3foreach\day3foreach\obj\Debug\day3foreach.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day3foreach\day3foreach\day3foreach\obj\Debug\day3foreach.exe
+C:\Users\mouni\hh\dotnet\day3foreach\day3foreach\day3foreach\obj\Debug\day3foreach.pdb
