@@ -1,8 +1,0 @@
-class Hello
-{
-  public static void Main(String[] args)
-  {
-    Console.WriteLine("Hello");
-     Console.ReadLine();
-   }
-}C:\Users\mouni\hh\dotnet\day1project1
