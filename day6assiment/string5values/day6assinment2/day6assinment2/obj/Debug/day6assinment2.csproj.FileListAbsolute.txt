@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\string5values\day6assinment2\day6assinment2\bin\Debug\day6assinment2.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\string5values\day6assinment2\day6assinment2\bin\Debug\day6assinment2.exe
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\string5values\day6assinment2\day6assinment2\bin\Debug\day6assinment2.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\string5values\day6assinment2\day6assinment2\obj\Debug\day6assinment2.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\string5values\day6assinment2\day6assinment2\obj\Debug\day6assinment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\string5values\day6assinment2\day6assinment2\obj\Debug\day6assinment2.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\string5values\day6assinment2\day6assinment2\obj\Debug\day6assinment2.exe
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\string5values\day6assinment2\day6assinment2\obj\Debug\day6assinment2.pdb

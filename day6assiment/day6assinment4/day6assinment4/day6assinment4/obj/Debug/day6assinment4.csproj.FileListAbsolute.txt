@@ -1,0 +1,7 @@
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\day6assinment4\day6assinment4\day6assinment4\bin\Debug\day6assinment4.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\day6assinment4\day6assinment4\day6assinment4\bin\Debug\day6assinment4.exe
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\day6assinment4\day6assinment4\day6assinment4\bin\Debug\day6assinment4.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\day6assinment4\day6assinment4\day6assinment4\obj\Debug\day6assinment4.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\day6assinment4\day6assinment4\day6assinment4\obj\Debug\day6assinment4.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\day6assinment4\day6assinment4\day6assinment4\obj\Debug\day6assinment4.exe
+C:\Users\mouni\hh\dotnet\day1project1\day6assiment\day6assinment4\day6assinment4\day6assinment4\obj\Debug\day6assinment4.pdb
