@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\sellerclass\sellerclass\sellerclass\bin\Debug\sellerclass.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\sellerclass\sellerclass\sellerclass\bin\Debug\sellerclass.exe
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\sellerclass\sellerclass\sellerclass\bin\Debug\sellerclass.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\sellerclass\sellerclass\sellerclass\obj\Debug\sellerclass.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\sellerclass\sellerclass\sellerclass\obj\Debug\sellerclass.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\sellerclass\sellerclass\sellerclass\obj\Debug\sellerclass.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\sellerclass\sellerclass\sellerclass\obj\Debug\sellerclass.exe
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\sellerclass\sellerclass\sellerclass\obj\Debug\sellerclass.pdb

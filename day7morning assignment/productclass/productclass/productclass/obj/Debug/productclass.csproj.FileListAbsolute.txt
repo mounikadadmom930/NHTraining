@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\productclass\productclass\productclass\bin\Debug\productclass.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\productclass\productclass\productclass\bin\Debug\productclass.exe
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\productclass\productclass\productclass\bin\Debug\productclass.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\productclass\productclass\productclass\obj\Debug\productclass.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\productclass\productclass\productclass\obj\Debug\productclass.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\productclass\productclass\productclass\obj\Debug\productclass.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\productclass\productclass\productclass\obj\Debug\productclass.exe
+C:\Users\mouni\hh\dotnet\day1project1\day7morning assignment\productclass\productclass\productclass\obj\Debug\productclass.pdb
