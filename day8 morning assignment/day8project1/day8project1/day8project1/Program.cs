@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//*******************************************************************
+//AUTHOR:PALURU MOUNIKA
+//PURPOSE:INTIALIZE 8 VALUES TO PRINT EVEN NUMBERS
+//*******************************************************************
+
 namespace day8project1
 {
     internal class Program
