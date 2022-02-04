@@ -52,7 +52,7 @@ namespace Day9Project4
     {
         static void Main(string[] args)
         {
-            Employee emp = new Employee(1, "mounika", 40000);
+            Employee emp = new Employee(1, "mounika" +", 40000);
             emp.PrintData();
 
 
