@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 //PUPOSE:TO CREAT A MATHMATICS CLASS AND ADD 3 STATIC METHODES
 //*****************************************
 
-namespace StaticMethods
+namespace day11project4
 {
     class Mathematics
     { 
