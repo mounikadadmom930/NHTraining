@@ -1,0 +1,7 @@
+C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\print 1 to 30 numbers\day14project5\day14project5\bin\Debug\day14project5.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\print 1 to 30 numbers\day14project5\day14project5\bin\Debug\day14project5.exe
+C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\print 1 to 30 numbers\day14project5\day14project5\bin\Debug\day14project5.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\print 1 to 30 numbers\day14project5\day14project5\obj\Debug\day14project5.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\print 1 to 30 numbers\day14project5\day14project5\obj\Debug\day14project5.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\print 1 to 30 numbers\day14project5\day14project5\obj\Debug\day14project5.exe
+C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\print 1 to 30 numbers\day14project5\day14project5\obj\Debug\day14project5.pdb
