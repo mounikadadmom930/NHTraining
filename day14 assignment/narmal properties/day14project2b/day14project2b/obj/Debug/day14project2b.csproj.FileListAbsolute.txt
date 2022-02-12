@@ -1,8 +1,0 @@
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\narmal properties\day14project2b\day14project2b\bin\Debug\day14project2b.exe.config
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\narmal properties\day14project2b\day14project2b\bin\Debug\day14project2b.exe
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\narmal properties\day14project2b\day14project2b\bin\Debug\day14project2b.pdb
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\narmal properties\day14project2b\day14project2b\obj\Debug\day14project2b.csproj.AssemblyReference.cache
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\narmal properties\day14project2b\day14project2b\obj\Debug\day14project2b.csproj.SuggestedBindingRedirects.cache
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\narmal properties\day14project2b\day14project2b\obj\Debug\day14project2b.csproj.CoreCompileInputs.cache
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\narmal properties\day14project2b\day14project2b\obj\Debug\day14project2b.exe
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\narmal properties\day14project2b\day14project2b\obj\Debug\day14project2b.pdb

@@ -1,0 +1,7 @@
+C:\Users\mouni\hh\dotnet\day1project1\Day15 Assignment\FilePrograms\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\Day15 Assignment\FilePrograms\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\mouni\hh\dotnet\day1project1\Day15 Assignment\FilePrograms\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\mouni\hh\dotnet\day1project1\Day15 Assignment\FilePrograms\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day15 Assignment\FilePrograms\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day15 Assignment\FilePrograms\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\mouni\hh\dotnet\day1project1\Day15 Assignment\FilePrograms\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

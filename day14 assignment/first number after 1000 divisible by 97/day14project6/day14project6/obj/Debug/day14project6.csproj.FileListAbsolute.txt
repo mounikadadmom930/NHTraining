@@ -1,7 +1,0 @@
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\first number after 1000 divisible by 97\day14project6\day14project6\bin\Debug\day14project6.exe.config
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\first number after 1000 divisible by 97\day14project6\day14project6\bin\Debug\day14project6.exe
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\first number after 1000 divisible by 97\day14project6\day14project6\bin\Debug\day14project6.pdb
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\first number after 1000 divisible by 97\day14project6\day14project6\obj\Debug\day14project6.csproj.SuggestedBindingRedirects.cache
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\first number after 1000 divisible by 97\day14project6\day14project6\obj\Debug\day14project6.csproj.CoreCompileInputs.cache
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\first number after 1000 divisible by 97\day14project6\day14project6\obj\Debug\day14project6.exe
-C:\Users\mouni\hh\dotnet\day1project1\day14 assignment\first number after 1000 divisible by 97\day14project6\day14project6\obj\Debug\day14project6.pdb
