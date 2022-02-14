@@ -1,0 +1,5 @@
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\MounikaLibrary\MounikaLibrary\MounikaLibrary\bin\Debug\MounikaLibrary.dll
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\MounikaLibrary\MounikaLibrary\MounikaLibrary\bin\Debug\MounikaLibrary.pdb
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\MounikaLibrary\MounikaLibrary\MounikaLibrary\obj\Debug\MounikaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\MounikaLibrary\MounikaLibrary\MounikaLibrary\obj\Debug\MounikaLibrary.dll
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\MounikaLibrary\MounikaLibrary\MounikaLibrary\obj\Debug\MounikaLibrary.pdb

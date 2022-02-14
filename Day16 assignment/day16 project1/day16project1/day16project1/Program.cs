@@ -3,9 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//******************************************
+//Author:paluru mounika
+//Purpose:print helloworld in object oriented method
+//*********************************************
 
 namespace day16project1
 {
+    /// <summary>
+    /// methode for message
+    /// </summary>
     class message
     {
         public string PrintHello()
