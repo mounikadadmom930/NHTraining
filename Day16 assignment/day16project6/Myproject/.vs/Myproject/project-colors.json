@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b83412e-d4bd-41c1-9060-8114bbd3d931": {
+      "ProjectGuid": "5b83412e-d4bd-41c1-9060-8114bbd3d931",
+      "DisplayName": "MounikaLibrary",
+      "ColorIndex": 0
+    },
+    "94637df3-f8d9-4bc3-a6ff-2e4fb3d2e0bb": {
+      "ProjectGuid": "94637df3-f8d9-4bc3-a6ff-2e4fb3d2e0bb",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "83ae203a-e1e5-41a2-9eca-cc6551604692": {
+      "ProjectGuid": "83ae203a-e1e5-41a2-9eca-cc6551604692",
+      "DisplayName": "ClintApp",
+      "ColorIndex": 2
+    },
+    "b597687a-a6f4-4053-9ca6-82863fd7402e": {
+      "ProjectGuid": "b597687a-a6f4-4053-9ca6-82863fd7402e",
+      "DisplayName": "MywindowsApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,13 @@
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\bin\Debug\ClintApp.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\bin\Debug\ClintApp.exe
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\bin\Debug\ClintApp.pdb
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\obj\Debug\ClintApp.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\obj\Debug\ClintApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\obj\Debug\ClintApp.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\obj\Debug\ClintApp.exe
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\obj\Debug\ClintApp.pdb
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\bin\Debug\MounikaLibrary.dll
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\bin\Debug\PublicLibrary.dll
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\bin\Debug\MounikaLibrary.pdb
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\bin\Debug\PublicLibrary.pdb
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\ClintApp\obj\Debug\ClintApp.csproj.CopyComplete

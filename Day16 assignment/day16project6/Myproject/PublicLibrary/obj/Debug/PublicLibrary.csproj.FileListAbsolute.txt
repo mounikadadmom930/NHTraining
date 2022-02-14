@@ -1,0 +1,6 @@
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\PublicLibrary\bin\Debug\PublicLibrary.dll
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\PublicLibrary\bin\Debug\PublicLibrary.pdb
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\PublicLibrary\obj\Debug\PublicLibrary.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\PublicLibrary\obj\Debug\PublicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\PublicLibrary\obj\Debug\PublicLibrary.dll
+C:\Users\mouni\hh\dotnet\day1project1\Day16 assignment\day16project6\Myproject\PublicLibrary\obj\Debug\PublicLibrary.pdb
