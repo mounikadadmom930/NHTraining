@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4011c482-6566-497c-9763-12743c40444a": {
+      "ProjectGuid": "4011c482-6566-497c-9763-12743c40444a",
+      "DisplayName": "day17project1",
+      "ColorIndex": 0
+    },
+    "73110b41-7361-4fff-a0ba-ad3ddd5dcae4": {
+      "ProjectGuid": "73110b41-7361-4fff-a0ba-ad3ddd5dcae4",
+      "DisplayName": "MounikaLibrary",
+      "ColorIndex": 1
+    },
+    "c08964d6-d8e9-4542-946c-78cffeca97af": {
+      "ProjectGuid": "c08964d6-d8e9-4542-946c-78cffeca97af",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
