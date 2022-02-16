@@ -1,0 +1,6 @@
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\MathematicLibrary\bin\Debug\MathematicLibrary.dll
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\MathematicLibrary\bin\Debug\MathematicLibrary.pdb
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\MathematicLibrary\obj\Debug\MathematicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\MathematicLibrary\obj\Debug\MathematicLibrary.dll
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\MathematicLibrary\obj\Debug\MathematicLibrary.pdb
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\MathematicLibrary\obj\Debug\MathematicLibrary.csproj.AssemblyReference.cache

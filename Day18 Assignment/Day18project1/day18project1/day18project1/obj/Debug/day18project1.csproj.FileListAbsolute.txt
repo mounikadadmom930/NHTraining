@@ -1,0 +1,11 @@
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\day18project1\obj\Debug\day18project1.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\day18project1\obj\Debug\day18project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\day18project1\obj\Debug\day18project1.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\day18project1\bin\Debug\day18project1.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\day18project1\bin\Debug\day18project1.exe
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\day18project1\bin\Debug\day18project1.pdb
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\day18project1\bin\Debug\MathematicLibrary.dll
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\day18project1\bin\Debug\MathematicLibrary.pdb
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\day18project1\obj\Debug\day18project1.csproj.CopyComplete
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\day18project1\obj\Debug\day18project1.exe
+C:\Users\mouni\hh\dotnet\day1project1\Day18 Assignment\Day18project1\day18project1\day18project1\obj\Debug\day18project1.pdb
