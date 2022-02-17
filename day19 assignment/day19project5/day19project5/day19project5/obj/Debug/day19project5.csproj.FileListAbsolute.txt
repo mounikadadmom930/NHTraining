@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day1project1\day19 assignment\day19project5\day19project5\day19project5\bin\Debug\day19project5.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\day19 assignment\day19project5\day19project5\day19project5\bin\Debug\day19project5.exe
+C:\Users\mouni\hh\dotnet\day1project1\day19 assignment\day19project5\day19project5\day19project5\bin\Debug\day19project5.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day19 assignment\day19project5\day19project5\day19project5\obj\Debug\day19project5.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\day19 assignment\day19project5\day19project5\day19project5\obj\Debug\day19project5.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\day19 assignment\day19project5\day19project5\day19project5\obj\Debug\day19project5.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\day19 assignment\day19project5\day19project5\day19project5\obj\Debug\day19project5.exe
+C:\Users\mouni\hh\dotnet\day1project1\day19 assignment\day19project5\day19project5\day19project5\obj\Debug\day19project5.pdb
