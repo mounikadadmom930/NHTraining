@@ -1,0 +1,8 @@
+C:\Users\mouni\hh\dotnet\day1project1\day21Assignment\day21project1\matematicsLibrary\matematicsLibrary\bin\Debug\matematicsLibrary.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\day21Assignment\day21project1\matematicsLibrary\matematicsLibrary\bin\Debug\matematicsLibrary.exe
+C:\Users\mouni\hh\dotnet\day1project1\day21Assignment\day21project1\matematicsLibrary\matematicsLibrary\bin\Debug\matematicsLibrary.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day21Assignment\day21project1\matematicsLibrary\matematicsLibrary\obj\Debug\matematicsLibrary.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\day21Assignment\day21project1\matematicsLibrary\matematicsLibrary\obj\Debug\matematicsLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\day21Assignment\day21project1\matematicsLibrary\matematicsLibrary\obj\Debug\matematicsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\day21Assignment\day21project1\matematicsLibrary\matematicsLibrary\obj\Debug\matematicsLibrary.exe
+C:\Users\mouni\hh\dotnet\day1project1\day21Assignment\day21project1\matematicsLibrary\matematicsLibrary\obj\Debug\matematicsLibrary.pdb
