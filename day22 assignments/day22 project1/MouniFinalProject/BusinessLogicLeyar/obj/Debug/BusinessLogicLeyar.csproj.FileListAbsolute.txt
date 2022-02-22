@@ -1,0 +1,9 @@
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\BusinessLogicLeyar\bin\Debug\BusinessLogicLeyar.dll
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\BusinessLogicLeyar\bin\Debug\BusinessLogicLeyar.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\BusinessLogicLeyar\bin\Debug\DataAccessLayer.dll
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\BusinessLogicLeyar\bin\Debug\DataAccessLayer.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\BusinessLogicLeyar\obj\Debug\BusinessLogicLeyar.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\BusinessLogicLeyar\obj\Debug\BusinessLogicLeyar.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\BusinessLogicLeyar\obj\Debug\BusinessLogicLeyar.csproj.CopyComplete
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\BusinessLogicLeyar\obj\Debug\BusinessLogicLeyar.dll
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\BusinessLogicLeyar\obj\Debug\BusinessLogicLeyar.pdb

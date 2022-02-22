@@ -1,0 +1,6 @@
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,13 @@
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\bin\Debug\MouniClintApp.exe.config
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\bin\Debug\MouniClintApp.exe
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\bin\Debug\MouniClintApp.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\bin\Debug\BusinessLogicLeyar.dll
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\bin\Debug\BusinessLogicLeyar.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\obj\Debug\MouniClintApp.csproj.AssemblyReference.cache
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\obj\Debug\MouniClintApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\obj\Debug\MouniClintApp.csproj.CoreCompileInputs.cache
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\obj\Debug\MouniClintApp.csproj.CopyComplete
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\obj\Debug\MouniClintApp.exe
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\obj\Debug\MouniClintApp.pdb
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\bin\Debug\DataAccessLayer.dll
+C:\Users\mouni\hh\dotnet\day1project1\day22 assignments\day22 project1\MouniFinalProject\MouniClintApp\bin\Debug\DataAccessLayer.pdb
